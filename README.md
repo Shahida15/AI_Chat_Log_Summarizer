@@ -46,4 +46,4 @@ A Python tool that reads `.txt` chat logs between a user and an AI, parses the c
 
 Here is an example of the summarizer output:
 
-![Summarizer Output](screenshot/Screenshot_output.png)
+![Summarizer Output](Screenshot/Screenshot_output.png)
